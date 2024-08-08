@@ -1,0 +1,244 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;;
+}
+body{
+    background-color: #F8F9FB;
+}
+a{
+    text-decoration: none;
+}
+
+.schedule {
+    display: inline-block;
+    color: white;
+    background-color: #0052CC;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px;
+    transition: all 0.5s;
+}
+.schedule:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px;
+}
+.header-div{
+    background-color: #ECE8FF;
+}
+.nav-link:hover{
+    color:#4CA8ED;
+}
+
+.hero-sec{
+    padding-top: 40px;
+    padding-bottom:40px;
+}
+.work-btn{
+    display: inline-block;
+    color: white;
+    background-color: #0052CC;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px; 
+    transition: all 0.5s;
+}
+.work-btn:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px; 
+}
+
+
+
+
+/* expend-area start */
+
+
+.expend-area{
+    padding-top:80px;
+    padding-bottom: 30px;
+}
+
+
+
+/* main-card-sec start */
+.main-card-sec{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.explore-div{
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+
+
+/* mini-carosal-sec start */
+
+.mini-carosal-sec{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+/* explore-sec-area start */
+
+.explore-sec-area{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.getfree{
+    background-color: #0052CC;
+    color: white;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 39px;
+    padding-right: 39px;
+    border-radius: 8px;
+    display: inline-block;
+    transition: all 0.5s;
+}
+.getfree:hover{
+    background-color: black;
+   
+}
+
+
+
+/* client-say-area start */
+
+.client-say-area{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+/* learn-form-sec start */
+
+.learn-form-sec{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #EAE6FF;
+}
+.upper-sec-training{
+    padding-bottom: 40px;
+}
+
+.b-color{
+    background-color: #EEEDFF;
+}
+.viewall{
+    display: inline-block;
+    background-color: #0052CC;
+    color: white;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    transition: all 0.5s;
+}
+.viewall:hover{
+    background-color: black;
+}
+.card-color{
+    background-color: white;
+}
+
+
+/* weprovide-sec start */
+.weprovide-sec{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+/* team-sec start */
+
+.team-sec{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+
+/* joinoline-sec start */
+
+.joinoline-sec{
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: #EAE6FF;
+}
+
+.joinwith{
+    display: inline-block;
+    background-color: #0052CC;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px;
+}
+.joinwith:hover{
+    background-color: black;
+}
+
+/* fotter-sec start */
+
+.fotter-sec{
+  padding-top:80px;
+
+  background-color: #172B4D;
+}
+
+
+.startpro{
+    display: inline-block;
+    color: white;
+    background-color: #0052CC;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 13px;
+    border-radius: 8px;
+    padding-bottom: 13px;
+}
+.startpro:hover{
+    background-color: black;
+}
+
+/* hero-footer start */
+
+.hero-footer{
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.foot-icons{
+    color:white;
+    font-size: 40px;
+    transition: all 0.5s;
+}
+.foot-icons:hover{
+    cursor: pointer;
+    color:#0052CC;
+}
